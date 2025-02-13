@@ -1,5 +1,10 @@
 # Make Every Penny Count: Difficulty-Adaptive Self-Consistency for Cost-Efficient Reasoning [NAACL2025 Findings]
 
+<div align="center">
+    <img src="https://github.com/WangXinglin/DSC/blob/main/Figure/Figure2.jpeg" width="700">
+    <img src="https://github.com/WangXinglin/DSC/blob/main/Figure/Figure3.jpeg" width="700">
+</div>
+
 **Self-consistency (SC), a widely used decoding strategy for chain-of-thought reasoning, shows significant gains across various multi-step reasoning tasks but comes with a high cost due to multiple 
 sampling with the preset size. Its variants, ASC and ESC, dynamically adjust the number of samples based on the posterior distribution of a set of pre-samples, 
 reducing the cost of SC with minimal impact on performance. Both methods, however, do not exploit the prior information about question difficulty. It often results in unnecessary repeated sampling for easy questions that could be accurately answered with just one attempt, wasting resources. 
