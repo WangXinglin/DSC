@@ -13,5 +13,17 @@ To demonstrate DSC’s effectiveness, we conduct extensive experiments on three 
 
 More details for the use of code will be coming up soon.
 
+## Results
+
+<div align="center">
+    <img src="https://github.com/WangXinglin/DSC/blob/main/Figure/Table2.jpeg" width="700">
+    <img src="https://github.com/WangXinglin/DSC/blob/main/Figure/Table3.jpeg" width="700">
+    <img src="https://github.com/WangXinglin/DSC/blob/main/Figure/Table5.jpeg" width="700">
+    <img src="https://github.com/WangXinglin/DSC/blob/main/Figure/Table6.jpeg" width="700">
+    <img src="https://github.com/WangXinglin/DSC/blob/main/Figure/Figure4.jpeg" width="700">
+    
+</div>
+
+
 ## Paper link
 https://arxiv.org/html/2408.13457
